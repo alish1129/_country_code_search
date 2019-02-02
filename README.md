@@ -1,6 +1,6 @@
 # _country_code_search
 
-**DONE FOR AN JOB INTERVIEW**
+**DONE FOR A JOB INTERVIEW**
 
  A mySQL database with the contents of the attached file countries.sql.
  Using the database, An HTML form that takes a letter from the user and displays all the country code and country name 
