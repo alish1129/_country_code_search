@@ -6,12 +6,14 @@
  Using the database, An HTML form that takes a letter from the user and displays all the country code and country name 
  that starts with the letter from the database.
    For example: If the user provides 'F', then the program returns
-   Code   Country Name
-   FI        Finland
-   FJ        Fiji
-   FK       Falkland Islands (Malvinas)
-   FM       Federated States of Micronesia
-   FO       Faroe Islands
-   FR       France
-   FX       France, Metropolitan
-   If there is no country with the letter provided by the user, then it displays "No country found."
+   **<pre>Code   Country Name <br>
+   FI       Finland <br>
+   FJ       Fiji <br>
+   FK       Falkland Islands (Malvinas) <br>
+   FM       Federated States of Micronesia <br>
+   FO       Faroe Islands <br>
+   FR       France <br>
+   FX       France, Metropolitan <br>
+			</pre>
+   If there is no country with the letter provided by the user, then it displays 
+			<pre>"No country found." </pre>
